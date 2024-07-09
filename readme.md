@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst with 4+ years of experience
 ----------------------------------------
 
-As a data science enthusiast, I find joy in unraveling the hidden stories within complex datasets and crafting innovative solutions to real-world challenges. My journey has been a tapestry of diverse experiences, from exploring the intricacies of data analysis, machine learning and natural language processing to collaborating with cross-functional teams to streamline processes and drive efficiency. With a strong foundation in technical skills, a creative approach to problem-solving, and effective communication abilities, I've had the privilege of contributing to projects that make a difference. Adaptability, teamwork, and a continuous learning mindset have been key in my growth as a data science professional. I look forward to connecting with fellow enthusiasts and discovering new opportunities to create a positive impact through the power of data science.
+As a data science enthusiast, I'm passionate about extracting insights from complex datasets and solving real-world problems. My experience spans data analysis, machine learning, and NLP, with a focus on collaborative problem-solving. Combining technical skills with creativity and effective communication, I've contributed to impactful projects across various domains. I'm eager to connect with fellow professionals and explore new opportunities to make a positive impact through data science.
 
 *   ✉️  You can contact me at [aswarshreyas@gmail.com](mailto:aswarshreyas@gmail.com)
 
