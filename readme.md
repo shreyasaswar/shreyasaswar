@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shreyas !
+Hello! I'm Shreyas !
 =====================================================================================================================================
 
-AI/ML Engineer with 5+ years of experience.
+Data Enthusiast with 5+ years of experience.
 ----------------------------------------
 
 As a data science enthusiast, I'm passionate about extracting insights from complex datasets and solving real-world problems. My experience spans data analysis, machine learning, and NLP, with a focus on collaborative problem-solving. Combining technical skills with creativity and effective communication, I've contributed to impactful projects across various domains. I'm eager to connect with fellow professionals and explore new opportunities to make a positive impact through data science.
