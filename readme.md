@@ -1,7 +1,7 @@
 Hello! I'm Shreyas !
 =====================================================================================================================================
 
-Data Enthusiast with 5+ years of experience.
+Data Enthusiast with 7+ years of experience.
 ----------------------------------------
 
 As a data science enthusiast, I'm passionate about extracting insights from complex datasets and solving real-world problems. My experience spans data analysis, machine learning, and NLP, with a focus on collaborative problem-solving. Combining technical skills with creativity and effective communication, I've contributed to impactful projects across various domains. I'm eager to connect with fellow professionals and explore new opportunities to make a positive impact through data science.
